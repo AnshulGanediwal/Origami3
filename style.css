@@ -1,0 +1,44 @@
+    h1{
+        color:rgb(4, 50, 110);
+    } 
+
+    h2{
+        color:rgb(4, 50, 110);
+        text-align: center;
+    }
+
+    h3{
+        color:#000000;
+        font-style: oblique;
+    }
+
+    .header{
+        display:flex;
+        background-color: coral;
+        justify-content: space-around;
+    }
+
+    .Description{
+        background-color: yellow;
+    }
+    
+    .grid{
+        display:flex;
+        justify-content: space-evenly;
+        flex-wrap:wrap;
+        background-color: cadetblue;
+
+    }
+
+    .item{
+        background-color: rgb(156, 184, 185);
+        border: 3px solid #000000;
+        border-radius: 50px;
+    }
+
+    p{
+        text-align: center;
+    }
+    .a{
+        text-align: center;
+    }
